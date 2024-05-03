@@ -39,16 +39,16 @@ cd PRODIGY_ML_01
 
 ## Files
 
-- `linear_regression_model.ipynb`: Colab Notebook containing the code for data preprocessing, model training, and evaluation.
+- `LinearRegression.ipynb`: Colab Notebook containing the code for data preprocessing, model training, and evaluation.
 
 ## Results
 
 The model achieved the following performance metrics:
 
-Mean Squared Error (MSE): 2,739,264,768.05
-Root Mean Squared Error (RMSE): 52,337.99
-Mean Absolute Error (MAE): 35,752.84
-R-squared (R2): 0.6429
+- Mean Squared Error (MSE): 2,739,264,768.05
+- Root Mean Squared Error (RMSE): 52,337.99
+- Mean Absolute Error (MAE): 35,752.84
+- R-squared (R2): 0.6429
 
 ## Contributing
 
