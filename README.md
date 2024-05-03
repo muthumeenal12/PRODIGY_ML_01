@@ -29,8 +29,8 @@ pip install numpy pandas scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone <[repository_url](https://github.com/muthumeenal12/PRODIGY_ML_01)>
-cd <PRODIGY_ML_01>
+git clone https://github.com/muthumeenal12/PRODIGY_ML_01
+cd PRODIGY_ML_01
 ```
 
 2. Install the required dependencies as mentioned above.
