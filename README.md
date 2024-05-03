@@ -56,5 +56,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 
 ---
-
-Feel free to customize the content according to your specific project details and preferences. You can also add additional sections such as Acknowledgements, References, or Future Work if applicable.
